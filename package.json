@@ -1,0 +1,23 @@
+{
+  "name": "code-challenge1-student-grade-generator",
+  "version": "1.0.0",
+  "description": "A grade generator that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakenaG/Code-challenge1-Student-Grade-Generator.git"
+  },
+  "keywords": [
+    "if",
+    "else"
+  ],
+  "author": "Glory Makena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakenaG/Code-challenge1-Student-Grade-Generator/issues"
+  },
+  "homepage": "https://github.com/MakenaG/Code-challenge1-Student-Grade-Generator#readme"
+}
